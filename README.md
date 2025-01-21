@@ -1,8 +1,8 @@
-# Astro Product Page Template with Webcore
+# Astro Portfolio Template with Webcore
 
 - For more information on how to use Webcore, visit the [documentation](https://webcoreui.dev/).
 - For Astro integration steps, visit the [Astro docs](https://webcoreui.dev/docs/astro).
-- To learn more about the template visit our [template library](https://webcoreui.dev/templates/product-page)
+- To learn more about the template visit our [template library](https://webcoreui.dev/templates/portfolio)
 
 ## Getting Started
 
